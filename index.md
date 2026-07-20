@@ -1,12 +1,59 @@
-# THE BACKROOMS: FOUND FILES
-> *RECOVERED DATA - ACCESS LEVEL: RESTRICTED*
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THE BACKROOMS: FOUND FILES</title>
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #d4d4d4;
+      font-family: "Courier New", Courier, monospace;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #ffcc00;
+      text-shadow: 0 0 5px #ffcc00;
+    }
+    .warning {
+      color: #ff3333;
+      border: 1px dashed #ff3333;
+      padding: 10px;
+      margin: 20px 0;
+    }
+    a {
+      color: #66ccff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+      color: #ffcc00;
+    }
+    .corrupt {
+      color: #888;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
 
----
+  <h1>THE BACKROOMS: FOUND FILES</h1>
+  <p><em>> RECOVERED DATA - ACCESS LEVEL: RESTRICTED</em></p>
 
-### WARNING: THESE FILES MAY CONTAIN OUTDATED OR CORRUPTED INFORMATION.
-### PLEASE READ WITH CARE.
+  <div class="warning">
+    <b>WARNING:</b> THESE FILES MAY CONTAIN OUTDATED OR CORRUPTED INFORMATION.<br>
+    <b>PLEASE READ WITH CARE.</b>
+  </div>
 
-## CLASSIFIED INDEX
-- [Recovered Audio Logs](recovered-logs.md) *LAST MODIFIED: ??/??/????*
----
-*If you are reading this, you were not meant to.*
+  <h2>CLASSIFIED INDEX</h2>
+  <ul>
+    <li><a href="recovered-logs.html">Recovered Audio Logs</a> <span class="corrupt">*DO NOT PLAY AFTER 9:00 PM*</span></li>
+  </ul>
+
+  <hr>
+  <p class="corrupt"><em>If you are reading this, you were not meant to.</em></p>
+
+</body>
+</html>
